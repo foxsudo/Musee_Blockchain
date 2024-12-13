@@ -1,0 +1,17 @@
+/* Visite.css */
+main {
+    padding: 20px;
+  }
+  
+  h2 {
+    color: var(--primary-color);
+    margin-bottom: 20px;
+  }
+  
+  .visit-info {
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  

@@ -1,0 +1,22 @@
+/* Evenements.css */
+main {
+    padding: 20px;
+  }
+  
+  h2 {
+    color: var(--primary-color);
+    margin-bottom: 20px;
+  }
+  
+  .event-card {
+    background-color: white;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .event-card h3 {
+    color: var(--secondary-color);
+  }
+  

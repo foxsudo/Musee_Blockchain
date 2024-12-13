@@ -1,0 +1,31 @@
+/* AdminSidebar.css */
+.admin-sidebar {
+    width: 200px;
+    background-color: #333;
+    color: white;
+    padding: 20px;
+  }
+  
+  .admin-sidebar h2 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+  }
+  
+  .admin-sidebar ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .admin-sidebar li {
+    margin: 15px 0;
+  }
+  
+  .admin-sidebar a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .admin-sidebar a:hover {
+    text-decoration: underline;
+  }
+  
